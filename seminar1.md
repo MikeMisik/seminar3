@@ -8,7 +8,7 @@
 
 > **git commit -m "message"** - создание коммита
 
-**git commit -a -m "message"** - добавить файл и создать коммит (2 в 1) *Примечание: не работает с untracked файлами*
+> **git commit -a -m "message"** - добавить файл и создать коммит (2 в 1) *Примечание: не работает с untracked файлами*
 
 > **git log** - вывод на экран истории всех коммитов с их хэш-кодами
 
@@ -23,3 +23,6 @@
 * **git branch -d name_of_branch_to_delete** - удалить ветку
 * **git checkout name_of_branch** - перейти на указанную ветку
 * **git merge name_of_branch_to_merge** - осуществить слияние веток 
+
+## Для более глубокого изучения GITa заходи [сюда](https://habr.com/ru/post/541258/) и [сюда](https://habr.com/ru/post/542616/)
+
