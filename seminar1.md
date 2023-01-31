@@ -27,3 +27,6 @@
 ## Для более глубокого изучения GITa заходи [сюда](https://habr.com/ru/post/541258/) и [сюда](https://habr.com/ru/post/542616/)
 
 ![MARVEL](marvel-marvel-krasnyy-fon-red.jpg)
+
+## Основные команды Git второго семинара
+
